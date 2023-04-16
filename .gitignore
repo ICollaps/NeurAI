@@ -1,2 +1,7 @@
 NeuraiEnv/
-model/dataset/img/
+model/dataset/
+model/notebook/roboflow_api.py
+model/notebook/Brain-tumor-classification-1
+model/notebook/Brain-tumor-classification-and-segmentation-1
+model/notebook/NEURAI
+*.pyc
